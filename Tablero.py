@@ -1,4 +1,4 @@
-#Funcion que imprime tablero
+#Funcion que crea e imprime una matriz
 
 board = []
 
